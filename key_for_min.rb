@@ -7,3 +7,4 @@ name_hash.collect do |key, value|
   key_for_min_value
 
 end
+end
